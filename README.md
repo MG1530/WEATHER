@@ -10,6 +10,4 @@ This is my first attempt of API call...
 Javascript, HTML, CSS...
 
 
-## How to use
-- Netlify Link :- https://manishsingh64.github.io/weather_app/
     
